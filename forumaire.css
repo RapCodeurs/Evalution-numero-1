@@ -42,6 +42,10 @@ p {
   transition-delay: 0s;
 }
 
+/*
+Je ne comprends pas pourquoi les animations ne fonctionnent pas avec la class "lien"
+*/
+
 .btn:hover,
 .lien:hover {
   transform: translateY(-10px);
